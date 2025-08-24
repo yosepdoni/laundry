@@ -46,7 +46,7 @@
 
     <script>
       function logout() {
-        if (confirm("Apakah Anda yakin ingin logout?")) {
+        if (confirm("Apakah Anda yakin ingin keluar?")) {
           window.location.href = "./../logout.php";
         }
       }
