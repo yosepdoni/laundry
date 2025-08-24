@@ -4,12 +4,6 @@ $username = "root";
 $password = "";
 $db = "tresialaundry";
 
-// hosting
-// $servername = "localhost";
-// $username = "u999595957_tresialaundry";
-// $password = "Tresialaundry123#";
-// $db = "u999595957_tresialaundry";
-
 // Create connection
 $conn = new mysqli($servername, $username, $password, $db);
 
